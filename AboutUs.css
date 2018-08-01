@@ -2,6 +2,21 @@ body{
   font-family: 'PT Sans', sans-serif;
 }
 
+.parallax {
+  /* The image used */
+  background-image: url("unsplash.jpg");
+
+      /* Set a specific height */
+      min-height: 1000px;
+
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+       background-size: 100%;
+  }
+
 ul {
     list-style-type: none;
     margin: 0;
