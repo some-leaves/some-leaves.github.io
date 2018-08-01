@@ -3,11 +3,9 @@ body{
   font-family: 'PT Sans', sans-serif;
 
 
-/*.parallax {
-  /* The image used */
-  background-image: url("change.jpg");
+.parallax {
 
-      /* Set a specific height */
+  background-image: url("change.jpg");
       min-height: 1000px;
 
       /* Create the parallax scrolling effect */
