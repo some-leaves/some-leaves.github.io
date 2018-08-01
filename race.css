@@ -28,3 +28,10 @@ body{
       background-color: #555;
       color: white;
   }
+
+
+  p {
+      margin-right: 50px;
+      margin-left: 150px;
+  }
+}
