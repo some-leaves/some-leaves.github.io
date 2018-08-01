@@ -1,9 +1,9 @@
 body{
-  
-  font-family: 'PT Sans', sans-serif;
-}
 
-.parallax {
+  font-family: 'PT Sans', sans-serif;
+
+
+/*.parallax {
   /* The image used */
   background-image: url("change.jpg");
 
