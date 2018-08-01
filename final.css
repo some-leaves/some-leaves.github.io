@@ -1,6 +1,11 @@
 body{
 
-font-family: 'Walter Turncoat', cursive;
+
+      background-image: url("justice.jpg");
+  
+
+
+font-family: 'PT Sans', sans-serif;
 }
 ul {
     list-style-type: none;
