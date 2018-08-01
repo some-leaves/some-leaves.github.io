@@ -8,14 +8,13 @@ body{
   background-image: url("change.jpg");
 
       /* Set a specific height */
-      min-height: 1000px;
+      min-height: 500px;
 
       /* Create the parallax scrolling effect */
       background-attachment: fixed;
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
-       background-size: 100%;
 
 }
 ul {
