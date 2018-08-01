@@ -18,7 +18,7 @@ h2 {
       margin: 0;
       padding: 0;
       width: 15%;
-      background-color: #f1f1f1;
+      background-color: #d3d3d3;
       position: fixed;
       height: 100%;
       overflow: auto;
@@ -32,7 +32,7 @@ h2 {
   }
 
   li a.active {
-      background-color: #4CAF50;
+      background-color: #555;
       color: white;
   }
 

@@ -6,7 +6,7 @@ body{
       margin: 0;
       padding: 0;
       width: 15%;
-      background-color: #f1f1f1;
+      background-color: #d3d3d3;
       position: fixed;
       height: 100%;
       overflow: auto;
@@ -20,7 +20,7 @@ body{
   }
 
   li a.active {
-      background-color: #4CAF50;
+      background-color: #555;
       color: white;
   }
 
