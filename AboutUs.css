@@ -29,3 +29,11 @@ li a:hover:not(.active) {
     background-color: #555;
     color: white;
 }
+
+h3 {
+  background-color: white;
+    width: 550px;
+    border: 10px solid black;
+    padding: 25px;
+    margin: 25px;
+}
