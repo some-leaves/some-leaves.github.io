@@ -8,6 +8,11 @@ p {
   margin-bottom: 40px;
 }
 
+h2 {
+  font-size: 24px;
+  font-style: italic; 
+}
+
   ul {
       list-style-type: none;
       margin: 0;
