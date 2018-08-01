@@ -1,6 +1,6 @@
 body{
   font-family: 'PT Sans', sans-serif;
-
+}
 
 ul {
     list-style-type: none;
@@ -29,7 +29,7 @@ li a:hover:not(.active) {
     background-color: #555;
     color: white;
 }
-}
+
 h2 {
   background-color: white;
     width: 550px;
