@@ -1,16 +1,16 @@
 body{
   font-family: 'Walter Turncoat', cursive;
-
-  ul {
+}
+ul {
       list-style-type: none;
       margin: 0;
       padding: 0;
       width: 15%;
       background-color: #d3d3d3;
       position: fixed;
-    height: 35%;
+      height: 35%;
       overflow: auto;
-  }
+}
 
   li a {
       display: block;
