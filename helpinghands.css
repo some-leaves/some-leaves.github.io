@@ -1,13 +1,7 @@
 body{
   font-family: 'PT Sans', sans-serif;
-}
-  div {
-      width: 100px;
-      border: 25px solid `black`;
-      padding: 25px;
-      margin: 25px;
-  }
-ul {
+
+
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -17,6 +11,17 @@ ul {
     height: 35%;
     overflow: auto;
 }
+p {width: 100px;
+border: 25px solid black;
+padding: 25px;
+margin: 25px;}
+div {
+    width: 100px;
+    border: 25px solid black;
+    padding: 25px;
+    margin: 25px;
+}
+ul {
 
 li a {
     display: block;
