@@ -11,12 +11,7 @@ body{
     height: 35%;
     overflow: auto;
 }
-div {
-    width: 100px;
-    border: 25px solid black;
-    padding: 25px;
-    margin: 25px;
-}
+
 ul {
 
 li a {
