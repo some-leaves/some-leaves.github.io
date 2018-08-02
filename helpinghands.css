@@ -11,10 +11,6 @@ body{
     height: 35%;
     overflow: auto;
 }
-p {width: 100px;
-border: 25px solid black;
-padding: 25px;
-margin: 25px;}
 div {
     width: 100px;
     border: 25px solid black;
