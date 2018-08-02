@@ -28,7 +28,7 @@ body,html{
 }
 
 .parallax3 {
-  background-image: url("change.jpg");
+  background-image: url("taaliyahAbout.gif");
   /* Set a specific height */
   height:100%;
   /* Create the parallax scrolling effect */
@@ -128,9 +128,9 @@ h3 {
 
 h4 {
   text-align:center;
-  background-color: white;
     width: 1000px;
     font-size: 16pt;
+    color:white;
 }
 
 h5 {
