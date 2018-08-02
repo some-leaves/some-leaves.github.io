@@ -39,7 +39,7 @@ body,html{
 }
 
 .parallax4 {
-  background-image: url("change.jpg");
+  background-image: url("bgm45.gif");
   /* Set a specific height */
   height:100%;
   /* Create the parallax scrolling effect */
@@ -135,16 +135,16 @@ h4 {
 
 h5 {
   text-align:center;
-  background-color: white;
     width: 1000px;
     font-size: 16pt;
+    color:white;
 }
 
 h6 {
   text-align:center;
-  background-color: white;
     width: 1000px;
     font-size: 16pt;
+    color:white;
 }
 
 .h7 {
