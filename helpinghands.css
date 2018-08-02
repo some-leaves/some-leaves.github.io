@@ -1,9 +1,10 @@
 body{
   font-family: 'PT Sans', sans-serif;
-}
+
   div {
       width: 100px;
-      border: 25px solid `black`;
+      border: 25px;
+      border-color: coral;
       padding: 25px;
       margin: 25px;
   }
