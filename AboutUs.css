@@ -105,9 +105,9 @@ li a:hover:not(.active) {
 }
 
 .h1 {
-  background-color: black;
+  background-image:url("change.jpg");
   width:100%;
-  height:200px;
+  height:350px;
   font-size: 70pt;
   color: white;
 }
