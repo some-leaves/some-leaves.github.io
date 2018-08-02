@@ -2,8 +2,8 @@ body{
   font-family: 'PT Sans', sans-serif;
 
   div {
-      width: 65px;
-      border: 25px solid white;
+      width: 300px;
+      border: 25px solid green;
       padding: 25px;
       margin: 25px;
   }
