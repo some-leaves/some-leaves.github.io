@@ -1,29 +1,25 @@
 body{
 
   font-family: 'PT Sans', sans-serif;
+
 }
-
 .parallax {
-  /* The image used */
-  background-image: url("change.jpg");
-
+      background-image: url("change.jpg");
       /* Set a specific height */
       min-height: 1000px;
-
       /* Create the parallax scrolling effect */
       background-attachment: fixed;
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
-       background-size: 100%;
 
 }
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 25%;
-    background-color: #f1f1f1;
+    width: 15%;
+    background-color: #d3d3d3;
     position: fixed;
     height: 100%;
     overflow: auto;
@@ -37,7 +33,7 @@ li a {
 }
 
 li a.active {
-    background-color: #4CAF50;
+    background-color: #555;
     color: white;
 }
 
@@ -52,14 +48,50 @@ h2 {
     border: 10px solid black;
     padding: 25px;
     margin: 25px;
+    font-size: 16pt;
 }
 
 h3 {
-  {
     background-color: white;
       width: 550px;
       border: 10px solid black;
       padding: 25px;
       margin: 25px;
+      font-size: 16pt;
   }
+
+h4 {
+  background-color: white;
+    width: 550px;
+    border: 10px solid black;
+    padding: 25px;
+    margin: 25px;
+    font-size: 16pt;
+}
+
+h5 {
+  background-color: white;
+    width: 550px;
+    border: 10px solid black;
+    padding: 25px;
+    margin: 25px;
+    font-size: 16pt;
+}
+
+h6 {
+  background-color: white;
+    width: 550px;
+    border: 10px solid black;
+    padding: 25px;
+    margin: 25px;
+    font-size: 16pt;
+}
+
+p {
+  background-color: white;
+    width: 550px;
+    border: 10px solid black;
+    padding: 25px;
+    margin: 25px;
+    font-size: 16pt;
 }
