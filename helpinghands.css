@@ -12,32 +12,32 @@ body{
     overflow: auto;
 }
 .h1{
-font-size: 20px;
+font-size: 10px;
 border-style: ridge;
 border-width: 7px;
 }
 .h2{
-font-size: 20px;
+font-size: 10px;
 border-style: ridge;
 border-width: 7px;
 }
 .h3{
-font-size: 20px;
+font-size: 10px;
 border-style: ridge;
 border-width: 7px;
 }
 .h4{
-font-size: 40px;
+font-size: 10px;
 border-style: ridge;
 border-width: 7px;
 }
 .h5{
-font-size: 40px;
+font-size: 10px;
 border-style: ridge;
 border-width: 7px;
 }
 .h6{
-font-size: 40px;
+font-size: 10px;
 border-style: ridge;
 border-width: 7px;
 }
