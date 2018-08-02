@@ -14,9 +14,8 @@ font-family: 'PT Sans', sans-serif;
 ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 8px 16px;
     width: 15%;
-    length: 15%;
     background-color: #d3d3d3;
     position: fixed;
     height: 100%;
