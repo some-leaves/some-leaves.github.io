@@ -5,7 +5,7 @@ body,html{
 
 }
 .parallax1 {
-      background-image: url("change.jpg");
+      background-image: url("kaveonnaAbout.GIF");
       /* Set a specific height */
       height:100%;
       /* Create the parallax scrolling effect */
@@ -17,7 +17,7 @@ body,html{
 }
 
 .parallax2 {
-  background-image: url("change.jpg");
+  background-image: url("laurenAbout.jpg");
   /* Set a specific height */
   height:100%;
   /* Create the parallax scrolling effect */
@@ -28,7 +28,7 @@ body,html{
 }
 
 .parallax3 {
-  background-image: url("change.jpg");
+  background-image: url("taaliyahAbout.gif");
   /* Set a specific height */
   height:100%;
   /* Create the parallax scrolling effect */
@@ -39,7 +39,7 @@ body,html{
 }
 
 .parallax4 {
-  background-image: url("change.jpg");
+  background-image: url("bgm45.gif");
   /* Set a specific height */
   height:100%;
   /* Create the parallax scrolling effect */
@@ -50,7 +50,7 @@ body,html{
 }
 
 .parallax5 {
-  background-image: url("change.jpg");
+  background-image: url("sophieAbout.gif");
   /* Set a specific height */
   height:100%;
   /* Create the parallax scrolling effect */
@@ -61,7 +61,7 @@ body,html{
 }
 
 .parallax6 {
-  background-image: url("change.jpg");
+  background-image: url("jessicaAbout.jpg");
   /* Set a specific height */
   height:100%;
   /* Create the parallax scrolling effect */
@@ -104,52 +104,58 @@ li a:hover:not(.active) {
     color: white;
 }
 
-.h1 {
-  background-image:url("change.jpg");
-  width:100%;
+.title {
+  background-image:url("IMG_1088.PNG");
+  width:49%;
   height:350px;
   font-size: 70pt;
   color: white;
 }
 
-h2 {
+h1{
   text-align:center;
-  background-color: white;
     width: 1000px;
     font-size: 16pt;
+  color: white;
+}
+
+h2 {
+  text-align:center;
+    width: 1000px;
+    font-size: 16pt;
+  color: white;
 }
 
 h3 {
   text-align:center;
-  background-color: white;
     width: 1000px;
     font-size: 16pt;
+    color: white;
   }
 
 h4 {
   text-align:center;
-  background-color: white;
     width: 1000px;
     font-size: 16pt;
+    color:white;
 }
 
 h5 {
   text-align:center;
-  background-color: white;
     width: 1000px;
     font-size: 16pt;
+    color:white;
 }
 
 h6 {
   text-align:center;
-  background-color: white;
     width: 1000px;
     font-size: 16pt;
+    color:white;
 }
 
 .h7 {
   text-align:center;
-  background-color: white;
     width: 1000px;
     font-size: 16pt;
 }
