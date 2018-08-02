@@ -48,6 +48,7 @@ h2 {
     border: 10px solid black;
     padding: 25px;
     margin: 25px;
+    font-size: 16pt;
 }
 
 h3 {
@@ -56,6 +57,7 @@ h3 {
       border: 10px solid black;
       padding: 25px;
       margin: 25px;
+      font-size: 16pt;
   }
 
 h4 {
@@ -64,4 +66,32 @@ h4 {
     border: 10px solid black;
     padding: 25px;
     margin: 25px;
+    font-size: 16pt;
+}
+
+h5 {
+  background-color: white;
+    width: 550px;
+    border: 10px solid black;
+    padding: 25px;
+    margin: 25px;
+    font-size: 16pt;
+}
+
+h6 {
+  background-color: white;
+    width: 550px;
+    border: 10px solid black;
+    padding: 25px;
+    margin: 25px;
+    font-size: 16pt;
+}
+
+h7 {
+  background-color: white;
+    width: 550px;
+    border: 10px solid black;
+    padding: 25px;
+    margin: 25px;
+    font-size: 16pt;
 }
