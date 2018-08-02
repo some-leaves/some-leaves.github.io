@@ -1,6 +1,7 @@
-body{
+body,html{
 
   font-family: 'PT Sans', sans-serif;
+  height:100%;
 
 }
 .parallax1 {
