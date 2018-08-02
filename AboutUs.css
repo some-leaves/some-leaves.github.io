@@ -27,6 +27,50 @@ body,html{
   background-size: cover;
 }
 
+.parallax3 {
+  background-image: url("change.jpg");
+  /* Set a specific height */
+  height:100%;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax4 {
+  background-image: url("change.jpg");
+  /* Set a specific height */
+  height:100%;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax5 {
+  background-image: url("change.jpg");
+  /* Set a specific height */
+  height:100%;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax6 {
+  background-image: url("change.jpg");
+  /* Set a specific height */
+  height:100%;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 @media only screen and (max-device-width: 1366px) {
   .parallax {
     background-attachment: scroll;
