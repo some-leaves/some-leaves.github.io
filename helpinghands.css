@@ -11,7 +11,17 @@ body{
     height: 35%;
     overflow: auto;
 }
-h1{
+.h1{
+font-size: 40px;
+border-style: ridge;
+border-width: 7px;
+}
+.h2{
+font-size: 40px;
+border-style: ridge;
+border-width: 7px;
+}
+.h3{
 font-size: 40px;
 border-style: ridge;
 border-width: 7px;
