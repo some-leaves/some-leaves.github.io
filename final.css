@@ -1,7 +1,7 @@
 body{
 
 
-      background-image: url("justice.jpg");
+    /*  background-image: url("justice.jpg"); */
 
       background-attachment: fixed;
    background-position: center;
@@ -11,6 +11,12 @@ body{
 
 font-family: 'PT Sans', sans-serif;
 }
+
+h3 {
+  margin-right: 90px;
+  margin-bottom: 40px;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -18,7 +24,7 @@ ul {
     width: 15%;
     background-color: #d3d3d3;
     position: fixed;
-    height: 40%;
+    height: 35%;
     overflow: auto;
 }
 
