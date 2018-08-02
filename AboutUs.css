@@ -17,7 +17,7 @@ body,html{
 }
 
 .parallax2 {
-  background-image: url("change.jpg");
+  background-image: url("laurenAbout.jpg");
   /* Set a specific height */
   height:100%;
   /* Create the parallax scrolling effect */
@@ -121,9 +121,9 @@ h2 {
 
 h3 {
   text-align:center;
-  background-color: white;
     width: 1000px;
     font-size: 16pt;
+    color: white;
   }
 
 h4 {
