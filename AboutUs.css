@@ -105,63 +105,51 @@ li a:hover:not(.active) {
 }
 
 .h1 {
-  background-color: black;
+  background-image:url("change.jpg");
   width:100%;
-  height:200px;
+  height:350px;
   font-size: 70pt;
   color: white;
 }
 
 h2 {
+  text-align:center;
   background-color: white;
-    width: 550px;
-    border: 10px solid black;
-    padding: 25px;
-    margin: 25px;
+    width: 1000px;
     font-size: 16pt;
 }
 
 h3 {
-    background-color: white;
-      width: 550px;
-      border: 10px solid black;
-      padding: 25px;
-      margin: 25px;
-      font-size: 16pt;
+  text-align:center;
+  background-color: white;
+    width: 1000px;
+    font-size: 16pt;
   }
 
 h4 {
+  text-align:center;
   background-color: white;
-    width: 550px;
-    border: 10px solid black;
-    padding: 25px;
-    margin: 25px;
+    width: 1000px;
     font-size: 16pt;
 }
 
 h5 {
+  text-align:center;
   background-color: white;
-    width: 550px;
-    border: 10px solid black;
-    padding: 25px;
-    margin: 25px;
+    width: 1000px;
     font-size: 16pt;
 }
 
 h6 {
+  text-align:center;
   background-color: white;
-    width: 550px;
-    border: 10px solid black;
-    padding: 25px;
-    margin: 25px;
+    width: 1000px;
     font-size: 16pt;
 }
 
 .h7 {
+  text-align:center;
   background-color: white;
-    width: 550px;
-    border: 10px solid black;
-    padding: 25px;
-    margin: 25px;
+    width: 1000px;
     font-size: 16pt;
 }
