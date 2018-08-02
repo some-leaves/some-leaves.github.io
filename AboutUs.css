@@ -114,9 +114,9 @@ li a:hover:not(.active) {
 
 h2 {
   text-align:center;
-  background-color: white;
     width: 1000px;
     font-size: 16pt;
+  color: white;
 }
 
 h3 {
