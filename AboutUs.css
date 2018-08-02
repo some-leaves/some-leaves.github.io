@@ -50,7 +50,7 @@ body,html{
 }
 
 .parallax5 {
-  background-image: url("sophieAbout");
+  background-image: url("sophieAbout.gif");
   /* Set a specific height */
   height:100%;
   /* Create the parallax scrolling effect */
@@ -104,11 +104,18 @@ li a:hover:not(.active) {
     color: white;
 }
 
-.h1 {
+.title {
   background-image:url("IMG_1088.PNG");
   width:49%;
   height:350px;
   font-size: 70pt;
+  color: white;
+}
+
+h1{
+  text-align:center;
+    width: 1000px;
+    font-size: 16pt;
   color: white;
 }
 
@@ -149,7 +156,6 @@ h6 {
 
 .h7 {
   text-align:center;
-  background-color: white;
     width: 1000px;
     font-size: 16pt;
 }
