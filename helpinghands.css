@@ -3,8 +3,7 @@ body{
 
   div {
       width: 100px;
-      border: 25px;
-      border-color: coral;
+      border: 25px solid black;
       padding: 25px;
       margin: 25px;
   }
@@ -12,7 +11,7 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 25%;
+    width: 15%;
     background-color: #f1f1f1;
     position: fixed;
     height: 35%;
