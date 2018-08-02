@@ -15,7 +15,8 @@ font-family: 'PT Sans', sans-serif;
 
 h1 {
 font-size: 40px;
-
+border-style: ridge;
+border-width: 7px;
 }
 
 p {
