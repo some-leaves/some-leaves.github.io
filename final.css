@@ -11,6 +11,12 @@ body{
 
 font-family: 'PT Sans', sans-serif;
 }
+
+p {
+  margin-right: 90px;
+  margin-bottom: 40px;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
