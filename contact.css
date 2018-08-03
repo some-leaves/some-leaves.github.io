@@ -50,8 +50,5 @@ div {
 }
 body  {
     background-image: url("images.jpg");
-    width: 550px;
-    border: 10px solid black;
-    padding: 25px;
-    margin: 25px;
+
 }
