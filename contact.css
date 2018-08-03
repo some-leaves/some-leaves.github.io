@@ -21,7 +21,7 @@ ul {
 li a {
     display: block;
     color: #000;
-    padding: 8px 16px;
+    padding: 15px 26px;
     text-decoration: none;
 }
 
@@ -49,6 +49,6 @@ div {
     background-position:right top;
 }
 body  {
-    background-image: url("images.jpg");
+    background-image: url("22.jpg");
 
 }
