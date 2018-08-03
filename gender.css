@@ -5,6 +5,12 @@ body{
 
 h1{
   font-size: 40px;
+  color: white;
+  /*border-style: ridge;
+  border-width: 7px;
+  outline-color: #cecece;
+  outline-style: double; */
+  background-color: black;
 }
 
 h3{
@@ -38,4 +44,10 @@ h3{
       background-color: #555;
       color: white;
   }
+}
+dl {
+  padding-right: 5px;
+}
+dd {
+  padding-right: 5px;
 }
