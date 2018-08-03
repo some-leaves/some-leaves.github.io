@@ -7,41 +7,99 @@ article {
   font-size: 56px;
 }
 
+.parallax1 {
+      background-image: url("kaveonnaAbout.GIF");
+      /* Set a specific height */
+      height:200px;
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+
+.parallax2 {
+  background-image: url("fistulaFound.jpeg");
+      /* Set a specific height */
+      height:200px;
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+
+.parallax3 {
+      background-image: url("kaveonnaAbout.GIF");
+      /* Set a specific height */
+      height:200px;
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+
+.parallax4 {
+      background-image: url("kaveonnaAbout.GIF");
+      /* Set a specific height */
+      height:200px;
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+
+.parallax5 {
+      background-image: url("kaveonnaAbout.GIF");
+      /* Set a specific height */
+      height:200px;
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+
+.parallax6 {
+      background-image: url("kaveonnaAbout.GIF");
+      /* Set a specific height */
+      height:200px;
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+
 h1{
 font-size: 15px;
-border-style: ridge;
-border-width: 3px;
+color: blue;
 }
 h2{
 font-size: 15px;
-border-style: ridge;
-border-width: 3px;
-background-color: white;
+color: blue;
   width: 550px;
-  border: 10px solid black;
   padding: 25px;
   margin: 25px;
 }
 
 h3{
 font-size: 15px;
-border-style: ridge;
-border-width: 3px;
+color: blue;
 }
 h4{
 font-size: 15px;
-border-style: ridge;
-border-width: 3px;
+color: blue;
 }
 h5{
 font-size: 15px;
-border-style: ridge;
-border-width: 3px;
+color: blue;
 }
 h6{
 font-size: 15px;
-border-style: ridge;
-border-width: 3px;
+color: blue;
 }
 
 ul {
