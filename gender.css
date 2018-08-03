@@ -45,3 +45,9 @@ h3{
       color: white;
   }
 }
+dl {
+  padding-right: 5px;
+}
+dd {
+  padding-right: 5px;
+}
