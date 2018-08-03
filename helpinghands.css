@@ -12,6 +12,7 @@ body{
   font-size: 24px;
   text-align:center;
   width:750px;
+  color:black;
 }
 
 .foundations {
@@ -30,6 +31,11 @@ body{
   color:white;
   font-size:30pt;
   text-align: center;
+}
+
+.foot {
+  font-size:14px;
+  color:black;
 }
 
 .parallax1 {
@@ -108,7 +114,7 @@ body{
       background-repeat: no-repeat;
       background-size: 100%;
 }
-p {
+.hot1 {
   font-size: 40px;
   color: gold;
 }
