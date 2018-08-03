@@ -1,15 +1,6 @@
 body{
   font-family: 'PT Sans', sans-serif;
 
-
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    width: 25%;
-    background-color: #f1f1f1;
-    position: fixed;
-    height: 35%;
-    overflow: auto;
 }
 
 h1{
@@ -43,6 +34,16 @@ border-style: ridge;
 border-width: 3px;
 }
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    background-color: #f1f1f1;
+    position: fixed;
+    height: 35%;
+    overflow: auto;
+}
 
 li a {
     display: block;
@@ -52,7 +53,7 @@ li a {
 }
 
 li a.active {
-    background-color: #4CAF50;
+    background-color: #555;
     color: white;
 }
 
