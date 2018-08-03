@@ -44,3 +44,8 @@ h2 {
     padding: 25px;
     margin: 25px;
 }
+div {
+    background-image:url('ss.png');
+    background-repeat:no-repeat;
+    background-position:right bottom;
+}
