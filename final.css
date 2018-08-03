@@ -1,13 +1,13 @@
 body{
+background-color: #f7f7f7;
 
-
-  background-image: url(""); 
+  /*background-image: url("");
 
       background-attachment: fixed;
    background-position: center;
    background-repeat: no-repeat;
-   background-size: cover;
-    background-size: 100%;
+   background-size:cover;
+    background-size: 100%; */
 
 font-family: 'PT Sans', sans-serif;
 margin-bottom: 40px;
@@ -18,6 +18,8 @@ h1 {
 font-size: 40px;
 border-style: ridge;
 border-width: 7px;
+outline-color: #cecece;
+outline-style: double;
 }
 
 p {
