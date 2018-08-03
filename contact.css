@@ -48,3 +48,7 @@ div {
     background-repeat:no-repeat;
     background-position:right top;
 }
+body  {
+    background-image: url("images.jpg");
+
+}
