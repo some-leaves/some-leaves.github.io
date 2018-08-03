@@ -14,6 +14,24 @@ body{
   width:750px;
 }
 
+.foundations {
+  background-color: black;
+  background-size: cover;
+  height:50px;
+  color:white;
+  font-size:30pt;
+  text-align: center;
+}
+
+.hotlines {
+  background-color: black;
+  background-size: cover;
+  height:50px;
+  color:white;
+  font-size:30pt;
+  text-align: center;
+}
+
 .parallax1 {
       background-image: url("trevor.jfif");
       /* Set a specific height */
@@ -70,6 +88,50 @@ body{
 }
 
 .parallax6 {
+      background-image: url("pp.jpg");
+      /* Set a specific height */
+      height:200px;
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+
+.parallax7 {
+      background-image: url("pp.jpg");
+      /* Set a specific height */
+      height:200px;
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+
+.parallax8 {
+      background-image: url("pp.jpg");
+      /* Set a specific height */
+      height:200px;
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+
+.parallax9 {
+      background-image: url("pp.jpg");
+      /* Set a specific height */
+      height:200px;
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+
+.parallax10 {
       background-image: url("pp.jpg");
       /* Set a specific height */
       height:200px;
