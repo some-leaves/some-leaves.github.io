@@ -16,10 +16,12 @@ margin-bottom: 40px;
 
 h1 {
 font-size: 40px;
-border-style: ridge;
+color: white;
+/*border-style: ridge;
 border-width: 7px;
 outline-color: #cecece;
-outline-style: double;
+outline-style: double; */
+background-color: black;
 }
 
 p {
