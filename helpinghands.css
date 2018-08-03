@@ -11,7 +11,6 @@ article {
       background-image: url("trevor.jfif");
       /* Set a specific height */
       height:200px;
-      width:100%
       /* Create the parallax scrolling effect */
       background-attachment: fixed;
       background-position:center;
@@ -20,7 +19,7 @@ article {
 }
 
 .parallax2 {
-  background-image: url("fistulaFound.jpeg");
+  background-image: url("reproductive.jpg");
       /* Set a specific height */
       height:200px;
       /* Create the parallax scrolling effect */
@@ -31,7 +30,7 @@ article {
 }
 
 .parallax3 {
-      background-image: url("kaveonnaAbout.GIF");
+      background-image: url("arcus.png");
       /* Set a specific height */
       height:200px;
       /* Create the parallax scrolling effect */
@@ -42,7 +41,7 @@ article {
 }
 
 .parallax4 {
-      background-image: url("kaveonnaAbout.GIF");
+      background-image: url("trayvon.JPG");
       /* Set a specific height */
       height:200px;
       /* Create the parallax scrolling effect */
@@ -110,7 +109,7 @@ li a:hover:not(.active) {
 
 h1{
 font-size: 40px;
-color: blue;
+color: gold;
 width: 550px;
 padding: 25px;
 margin: 25px;
@@ -118,7 +117,7 @@ margin: 25px;
 }
 h2{
 font-size: 40px;
-color: blue;
+color: gold;
   width: 550px;
   padding: 25px;
   margin: 25px;
@@ -126,7 +125,7 @@ color: blue;
 
 h3{
 font-size: 40px;
-color: blue;
+color: gold;
 width: 550px;
 padding: 25px;
 margin: 25px;
@@ -134,7 +133,7 @@ margin: 25px;
 }
 h4{
 font-size: 40px;
-color: blue;
+color: yellow;
 width: 550px;
 padding: 25px;
 margin: 25px;
@@ -142,7 +141,7 @@ margin: 25px;
 }
 h5{
 font-size: 40px;
-color: blue;
+color: gold;
 width: 550px;
 padding: 25px;
 margin: 25px;
@@ -150,7 +149,7 @@ margin: 25px;
 }
 h6{
 font-size: 40px;
-color: blue;
+color: gold;
 width: 550px;
 padding: 25px;
 margin: 25px;
