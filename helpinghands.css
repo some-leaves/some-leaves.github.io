@@ -3,8 +3,24 @@ body{
   font-size: 16px;
 }
 
-article {
+
+.article {
   font-size: 56px;
+}
+
+.desc1 {
+  font-size: 20px;
+  float: left;
+}
+
+.desc2 {
+  font-size: 20px;
+  float: right;
+  margin-left: 10px;
+}
+
+.header {
+  width: 650px
 }
 
 .parallax1 {
@@ -52,7 +68,7 @@ article {
 }
 
 .parallax5 {
-      background-image: url("kaveonnaAbout.GIF");
+      background-image: url("srlp.jpg");
       /* Set a specific height */
       height:200px;
       /* Create the parallax scrolling effect */
@@ -63,7 +79,7 @@ article {
 }
 
 .parallax6 {
-      background-image: url("kaveonnaAbout.GIF");
+      background-image: url("pp.jpg");
       /* Set a specific height */
       height:200px;
       /* Create the parallax scrolling effect */
