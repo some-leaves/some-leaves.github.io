@@ -7,6 +7,61 @@ article {
   font-size: 56px;
 }
 
+.parallax1 {
+      background-image: url("kaveonnaAbout.GIF");
+      /* Set a specific height */
+      height:100%;
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+
+.parallax2 {
+      background-image: url("kaveonnaAbout.GIF");
+      /* Set a specific height */
+      height:100%;
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+
+.parallax3 {
+      background-image: url("kaveonnaAbout.GIF");
+      /* Set a specific height */
+      height:100%;
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+
+.parallax4 {
+      background-image: url("kaveonnaAbout.GIF");
+      /* Set a specific height */
+      height:100%;
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+
+.parallax5 {
+      background-image: url("kaveonnaAbout.GIF");
+      /* Set a specific height */
+      height:100%;
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+
 h1{
 font-size: 15px;
 border-style: ridge;
