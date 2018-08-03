@@ -61,7 +61,7 @@ body,html{
 }
 
 .parallax6 {
-  background-image: url("jessicaAbout.jpg");
+  background-image: url("jessica.jpg");
   /* Set a specific height */
   height:100%;
   /* Create the parallax scrolling effect */
@@ -151,7 +151,7 @@ h6 {
   text-align:center;
     width: 1000px;
     font-size: 16pt;
-    color:black;
+    color:#f2f2f2;
 }
 
 .h7 {
