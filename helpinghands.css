@@ -3,6 +3,10 @@ body{
   font-size: 16px;
 }
 
+article {
+  font-size: 56px;
+}
+
 h1{
 font-size: 15px;
 border-style: ridge;
