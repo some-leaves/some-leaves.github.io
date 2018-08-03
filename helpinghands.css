@@ -12,7 +12,13 @@ h2{
 font-size: 10px;
 border-style: ridge;
 border-width: 3px;
+background-color: white;
+  width: 550px;
+  border: 10px solid black;
+  padding: 25px;
+  margin: 25px;
 }
+
 h3{
 font-size: 10px;
 border-style: ridge;
@@ -39,7 +45,7 @@ ul {
     margin: 0;
     padding: 0;
     width: 25%;
-    background-color: #f1f1f1;
+    background-color: #d3d3;
     position: fixed;
     height: 35%;
     overflow: auto;
@@ -62,11 +68,4 @@ li a:hover:not(.active) {
     color: white;
 }
 
-}
-h2 {
-  background-color: white;
-    width: 550px;
-    border: 10px solid black;
-    padding: 25px;
-    margin: 25px;
 }
