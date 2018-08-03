@@ -99,14 +99,18 @@ body{
 }
 
 .parallax7 {
-      background-image: url("pp.jpg");
+      background-image: url("hotlineOne.jpg");
       /* Set a specific height */
-      height:200px;
+      height:130px;
       /* Create the parallax scrolling effect */
-      background-attachment: fixed;
+      background-attachment: scroll;
       background-position: center;
       background-repeat: no-repeat;
-      background-size: cover;
+      background-size: 100%;
+}
+p {
+  font-size: 40px;
+  color: gold;
 }
 
 .parallax8 {
@@ -118,6 +122,11 @@ body{
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
+      font-size: 40px;
+      color: gold;
+      width: 550px;
+      padding: 25px;
+      margin: 25px;
 }
 
 .parallax9 {
@@ -129,6 +138,11 @@ body{
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
+      font-size: 40px;
+      color: gold;
+      width: 550px;
+      padding: 25px;
+      margin: 25px;
 }
 
 .parallax10 {
@@ -140,6 +154,11 @@ body{
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
+      font-size: 40px;
+      color: gold;
+      width: 550px;
+      padding: 25px;
+      margin: 25px;
 }
 
 @media only screen and (max-device-width: 1366px) {
