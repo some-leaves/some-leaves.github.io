@@ -38,7 +38,7 @@ li a {
     text-decoration: none;
 }
 
-li a.active {
+/* li a.active {
     background-color: #555;
     color: white;
 }
@@ -46,7 +46,7 @@ li a.active {
 li a:hover:not(.active) {
     background-color: #555;
     color: white;
-}
+} */
 
 
 /* h2 {
@@ -56,12 +56,12 @@ li a:hover:not(.active) {
     padding: 25px;
     margin: 25px;
 } */
-/* div {
-    background-image:url('ss.png');
+div {
+    background-image:url('22.jpg');
     background-repeat:no-repeat;
     background-position:right top;
-} */
+}
 body  {
-    background-image: url("22.jpg");
+    background-image: url('22.jpg');
 
 }
