@@ -8,19 +8,10 @@ body{
   font-size: 56px;
 }
 
-.desc1 {
-  font-size: 20px;
-  float: left;
-}
-
-.desc2 {
-  font-size: 20px;
-  float: right;
-  margin-left: 10px;
-}
-
-.header {
-  width: 650px
+.desc {
+  font-size: 24px;
+  text-align:center;
+  width:750px;
 }
 
 .parallax1 {
