@@ -8,18 +8,18 @@ article {
 }
 
 .parallax1 {
-      background-image: url("kaveonnaAbout.GIF");
+      background-image: url("trevor.jfif");
       /* Set a specific height */
       height:200px;
       /* Create the parallax scrolling effect */
       background-attachment: fixed;
-      background-position: center;
+      background-position:center;
       background-repeat: no-repeat;
-      background-size: cover;
+      background-size:cover;
 }
 
 .parallax2 {
-  background-image: url("fistulaFound.jpeg");
+  background-image: url("reproductive.jpg");
       /* Set a specific height */
       height:200px;
       /* Create the parallax scrolling effect */
@@ -30,7 +30,7 @@ article {
 }
 
 .parallax3 {
-      background-image: url("kaveonnaAbout.GIF");
+      background-image: url("arcus.png");
       /* Set a specific height */
       height:200px;
       /* Create the parallax scrolling effect */
@@ -41,7 +41,7 @@ article {
 }
 
 .parallax4 {
-      background-image: url("kaveonnaAbout.GIF");
+      background-image: url("trayvon.JPG");
       /* Set a specific height */
       height:200px;
       /* Create the parallax scrolling effect */
@@ -73,41 +73,18 @@ article {
       background-size: cover;
 }
 
-h1{
-font-size: 15px;
-color: blue;
-}
-h2{
-font-size: 15px;
-color: blue;
-  width: 550px;
-  padding: 25px;
-  margin: 25px;
-}
-
-h3{
-font-size: 15px;
-color: blue;
-}
-h4{
-font-size: 15px;
-color: blue;
-}
-h5{
-font-size: 15px;
-color: blue;
-}
-h6{
-font-size: 15px;
-color: blue;
+@media only screen and (max-device-width: 1366px) {
+  .parallax {
+    background-attachment: scroll;
+  }
 }
 
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 25%;
-    background-color: #d3d3;
+    width: 15%;
+    background-color: #d3d3d3;
     position: fixed;
     height: 35%;
     overflow: auto;
@@ -128,4 +105,53 @@ li a.active {
 li a:hover:not(.active) {
     background-color: #555;
     color: white;
+}
+
+h1{
+font-size: 40px;
+color: gold;
+width: 550px;
+padding: 25px;
+margin: 25px;
+
+}
+h2{
+font-size: 40px;
+color: gold;
+  width: 550px;
+  padding: 25px;
+  margin: 25px;
+}
+
+h3{
+font-size: 40px;
+color: gold;
+width: 550px;
+padding: 25px;
+margin: 25px;
+
+}
+h4{
+font-size: 40px;
+color: yellow;
+width: 550px;
+padding: 25px;
+margin: 25px;
+
+}
+h5{
+font-size: 40px;
+color: gold;
+width: 550px;
+padding: 25px;
+margin: 25px;
+
+}
+h6{
+font-size: 40px;
+color: gold;
+width: 550px;
+padding: 25px;
+margin: 25px;
+
 }
