@@ -3,9 +3,6 @@ body{
   font-size: 16px;
 }
 
-h1{
-  font-size: 40px;
-}
 h1 {
 font-size: 40px;
 color: white;
@@ -38,6 +35,19 @@ li a {
     color: #000;
     padding: 8px 16px;
     text-decoration: none;
+}
+li a.active {
+    background-color: #555;
+    color: white;
+}
+
+li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
+img {
+  height: auto;
+  width: 50%;
 }
 
 /* li a.active {
