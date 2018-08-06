@@ -83,7 +83,7 @@ ul {
     padding: 0;
     width: 15%;
     background-color: #d3d3d3;
-    position: fixed;
+  /*  position: fixed; */
     height: 35%;
     overflow: auto;
 }
@@ -99,13 +99,13 @@ li a {
 li a.active {
     background-color: #555;
     color: white;
-    text-align: center;
+    text-align:center;
 }
 
 li a:hover:not(.active) {
     background-color: #555;
     color: white;
-    text-align: center;
+    text-align:center;
 }
 
 .title {
@@ -114,7 +114,7 @@ li a:hover:not(.active) {
   font-size: 70pt;
   color: white;
   background-repeat: no-repeat;
-  background-position: center;
+  background-position:center;
 }
 
 h1{
