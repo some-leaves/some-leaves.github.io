@@ -1,6 +1,15 @@
 body{
 background-color: #f7f7f7;
 
+/* Lauren's call function for the backdrop */
+/* .backdrop {
+  background-image: url("FinalT.A.E Backdrop.jpg");
+  background-size: 300px 150px
+  width: 150px;
+  height: 300px;
+  border: 2px solid;
+  color: pink;
+} */
   /*background-image: url("");
 
       background-attachment: fixed;
@@ -12,6 +21,9 @@ background-color: #f7f7f7;
 font-family: 'PT Sans', sans-serif;
 margin-bottom: 40px;
 }
+
+
+
 
 
 h1 {
