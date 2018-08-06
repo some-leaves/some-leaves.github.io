@@ -99,11 +99,19 @@ li a {
 li a.active {
     background-color: #555;
     color: white;
+<<<<<<< HEAD
+    text-align:center;
+=======
+>>>>>>> 88a2f1f5859dfeca6e0bdb34ea8655aacc570991
 }
 
 li a:hover:not(.active) {
     background-color: #555;
     color: white;
+<<<<<<< HEAD
+    text-align:center;
+=======
+>>>>>>> 88a2f1f5859dfeca6e0bdb34ea8655aacc570991
 }
 
 .title {
@@ -112,7 +120,7 @@ li a:hover:not(.active) {
   font-size: 70pt;
   color: white;
   background-repeat: no-repeat;
-  background-position: center;
+  background-position:center;
 }
 
 h1{
