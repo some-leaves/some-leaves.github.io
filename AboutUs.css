@@ -107,10 +107,11 @@ li a:hover:not(.active) {
 
 .title {
   background-image:url("IMG_1088.PNG");
-  width:49%;
   height:350px;
   font-size: 70pt;
   color: white;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 h1{
