@@ -77,13 +77,14 @@ body,html{
     background-attachment: scroll;
   }
 }
+
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     width: 15%;
     background-color: #d3d3d3;
-  /*  position: fixed; */
+    position: fixed;
     height: 35%;
     overflow: auto;
 }
@@ -93,19 +94,24 @@ li a {
     color: #000;
     padding: 8px 16px;
     text-decoration: none;
-    text-align: center;
 }
 
 li a.active {
     background-color: #555;
     color: white;
-    text-align: center;
+<<<<<<< HEAD
+    text-align:center;
+=======
+>>>>>>> 88a2f1f5859dfeca6e0bdb34ea8655aacc570991
 }
 
 li a:hover:not(.active) {
     background-color: #555;
     color: white;
-    text-align: center;
+<<<<<<< HEAD
+    text-align:center;
+=======
+>>>>>>> 88a2f1f5859dfeca6e0bdb34ea8655aacc570991
 }
 
 .title {
@@ -114,7 +120,7 @@ li a:hover:not(.active) {
   font-size: 70pt;
   color: white;
   background-repeat: no-repeat;
-  background-position: center;
+  background-position:center;
 }
 
 h1{
