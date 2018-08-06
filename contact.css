@@ -1,6 +1,6 @@
 body{
   font-family: 'PT Sans', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 h1 {
@@ -16,7 +16,7 @@ background-color: black;
 p {
   margin-right: 90px;
   margin-bottom: 40px;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 ul {
@@ -35,26 +35,29 @@ li a {
     color: #000;
     padding: 8px 16px;
     text-decoration: none;
+    text-align: center;
 }
 li a.active {
     background-color: #555;
     color: white;
+    text-align: center;
 }
 
 li a:hover:not(.active) {
     background-color: #555;
     color: white;
+    text-align: center;
 }
 img {
   height: auto;
-  width: 50%;
+  width: 75%;
 }
 
 /* li a.active {
     background-color: #555;
     color: white;
 }
-
+-
 li a:hover:not(.active) {
     background-color: #555;
     color: white;
