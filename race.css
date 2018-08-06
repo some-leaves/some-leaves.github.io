@@ -40,16 +40,19 @@ h2 {
       color: #000;
       padding: 8px 16px;
       text-decoration: none;
+      text-align: center;
   }
 
   li a.active {
       background-color: #555;
       color: white;
+      text-align: center;
   }
 
   li a:hover:not(.active) {
       background-color: #555;
       color: white;
+      text-align: center;
   }
 
 
