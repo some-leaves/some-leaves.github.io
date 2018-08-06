@@ -35,19 +35,22 @@ li a {
     color: #000;
     padding: 8px 16px;
     text-decoration: none;
+    text-align: center;
 }
 li a.active {
     background-color: #555;
     color: white;
+    text-align: center;
 }
 
 li a:hover:not(.active) {
     background-color: #555;
     color: white;
+    text-align: center;
 }
 img {
   height: auto;
-  width: 50%;
+  width: 75%;
 }
 
 /* li a.active {
