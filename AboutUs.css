@@ -83,7 +83,7 @@ ul {
     padding: 0;
     width: 15%;
     background-color: #d3d3d3;
-    position: fixed;
+  /*  position: fixed; */
     height: 35%;
     overflow: auto;
 }
