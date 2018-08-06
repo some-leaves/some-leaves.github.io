@@ -77,13 +77,14 @@ body,html{
     background-attachment: scroll;
   }
 }
+
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     width: 15%;
     background-color: #d3d3d3;
-  /*  position: fixed; */
+    position: fixed;
     height: 35%;
     overflow: auto;
 }
@@ -93,19 +94,16 @@ li a {
     color: #000;
     padding: 8px 16px;
     text-decoration: none;
-    text-align: center;
 }
 
 li a.active {
     background-color: #555;
     color: white;
-    text-align: center;
 }
 
 li a:hover:not(.active) {
     background-color: #555;
     color: white;
-    text-align: center;
 }
 
 .title {

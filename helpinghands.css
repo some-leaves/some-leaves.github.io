@@ -120,19 +120,22 @@ ul {
 }
 
 .parallax7 {
-      background-image: url("hotlineOne.jpg");
+      background:transparent url("hotlineOne.jpg") center top no-repeat;
       /* Set a specific height */
       height:130px;
+      display:block;
       /* Create the parallax scrolling effect */
       background-attachment: scroll;
       background-position: center;
       background-repeat: no-repeat;
       background-size: 100%;
 }
-.hot1 {
-  font-size: 40px;
-  color: gold;
+
+.parallax7:hover {
+      background-image: url("hotOneHover.jpg");
+      height:130px;
 }
+
 
 .parallax8 {
       background-image: url("pp.jpg");
@@ -219,15 +222,15 @@ li a:hover:not(.active) {
 h1{
 font-size: 40px;
 color: gold;
-width: 550px;
+width: 100%;
 padding: 25px;
 margin: 25px;
-
 }
+
 h2{
 font-size: 40px;
 color: gold;
-  width: 550px;
+  width: 100%;
   padding: 25px;
   margin: 25px;
 }
@@ -235,7 +238,7 @@ color: gold;
 h3{
 font-size: 40px;
 color: gold;
-width: 550px;
+width: 100%;
 padding: 25px;
 margin: 25px;
 
@@ -243,7 +246,7 @@ margin: 25px;
 h4{
 font-size: 40px;
 color: yellow;
-width: 550px;
+width: 100%;
 padding: 25px;
 margin: 25px;
 
@@ -251,7 +254,7 @@ margin: 25px;
 h5{
 font-size: 40px;
 color: gold;
-width: 550px;
+width: 100%;
 padding: 25px;
 margin: 25px;
 
@@ -259,7 +262,7 @@ margin: 25px;
 h6{
 font-size: 40px;
 color: gold;
-width: 550px;
+width: 100%;
 padding: 25px;
 margin: 25px;
 
