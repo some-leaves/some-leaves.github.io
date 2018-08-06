@@ -32,11 +32,11 @@ p {
 
 ul {
     list-style-type: none;
-    margin: 0;
+    margin: auto;
     padding: 0;
     width: 15%;
     background-color: #d3d3d3;
-    position: fixed;
+    position: center;
     height: 35%;
     overflow: auto;
 }
