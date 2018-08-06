@@ -5,6 +5,16 @@ font-family: 'PT Sans', sans-serif;
 
 h1{
   font-size: 40px;
+  color: white;
+  /*border-style: ridge;
+  border-width: 7px;
+  outline-color: #cecece;
+  outline-style: double; */
+  background-color: black;
+}
+
+p{
+  font-size: 16px;
 }
 ul {
       list-style-type: none;

@@ -4,6 +4,7 @@ body,html{
   height:100%;
 
 }
+
 .parallax1 {
       background-image: url("kaveonnaAbout.GIF");
       /* Set a specific height */
@@ -61,7 +62,7 @@ body,html{
 }
 
 .parallax6 {
-  background-image: url("jessicaAbout.jpg");
+  background-image: url("jessica.JPG");
   /* Set a specific height */
   height:100%;
   /* Create the parallax scrolling effect */
@@ -106,10 +107,11 @@ li a:hover:not(.active) {
 
 .title {
   background-image:url("IMG_1088.PNG");
-  width:49%;
   height:350px;
   font-size: 70pt;
   color: white;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 h1{
@@ -151,7 +153,7 @@ h6 {
   text-align:center;
     width: 1000px;
     font-size: 16pt;
-    color:white;
+    color:#f2f2f2;
 }
 
 .h7 {

@@ -1,11 +1,22 @@
 body{
   font-family: 'PT Sans', sans-serif;
   font-size: 16px;
-
 }
 
-h1{
-  font-size: 40px;
+h1 {
+font-size: 40px;
+color: white;
+/*border-style: ridge;
+border-width: 7px;
+outline-color: #cecece;
+outline-style: double; */
+background-color: black;
+}
+
+p {
+  margin-right: 90px;
+  margin-bottom: 40px;
+  font-size: 16px;
 }
 
 ul {
@@ -25,7 +36,6 @@ li a {
     padding: 8px 16px;
     text-decoration: none;
 }
-
 li a.active {
     background-color: #555;
     color: white;
@@ -35,12 +45,35 @@ li a:hover:not(.active) {
     background-color: #555;
     color: white;
 }
-
+img {
+  height: auto;
+  width: 50%;
 }
-h2 {
+
+/* li a.active {
+    background-color: #555;
+    color: white;
+}
+
+li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+} */
+
+
+/* h2 {
   background-color: white;
     width: 550px;
     border: 10px solid black;
     padding: 25px;
     margin: 25px;
-}
+} */
+/* div {
+    background-image:url('22.jpg');
+    background-repeat:no-repeat;
+    background-position:right top; */
+/* } */
+/* body  {
+    background-image: url('22.jpg');
+
+} */
