@@ -1,40 +1,22 @@
-body{
-background-color: #f7f7f7;
-
-/* Lauren's call function for the backdrop */
-/* .backdrop {
-  background-image: url("FinalT.A.E Backdrop.jpg");
-  background-size: 300px 150px
-  width: 150px;
-  height: 300px;
-  border: 2px solid;
-  color: pink;
-} */
-  /*background-image: url("");
-
-      background-attachment: fixed;
+body {
+  background-color: #f7f7f7;
+  background-attachment: fixed;
    background-position: center;
    background-repeat: no-repeat;
    background-size:cover;
     background-size: 100%; */
 
 font-family: 'PT Sans', sans-serif;
-margin-bottom: 40px;
+margin-bottom left: 40px;
+font-size: 16px;
 }
-
-
-
-
 
 h1 {
-font-size: 55px;
-color: white;
-/*border-style: ridge;
-border-width: 7px;
-outline-color: #cecece;
-outline-style: double; */
-background-color: black;
+  font-size: 50px;
+  color: PowderBlue;
+  background-color: black;
 }
+h1
 
 p {
   margin-right: 70px;
@@ -57,7 +39,7 @@ li a {
     display: block;
     color: #000;
     padding: 8px 16px;
-    text-decoration: none;
+    text-decoration: "PT Sans", sans -serif;
     text-align: center;
 }
 
