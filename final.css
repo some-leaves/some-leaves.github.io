@@ -1,4 +1,6 @@
-body {
+
+
+body, html {
   background-color: #f7f7f7;
   background-attachment: fixed;
    background-position: center;
@@ -7,7 +9,7 @@ body {
     background-size: 100%; */
 
 font-family: 'PT Sans', sans-serif;
-margin-bottom left: 40px;
+height:100%;
 font-size: 16px;
 }
 
