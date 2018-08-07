@@ -1,8 +1,18 @@
 body{
   font-family: 'PT Sans', sans-serif;
-  font-size: 16px;
+
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 25%;
+  background-color: #f1f1f1;
+  position: fixed;
+  height: 35%;
+  overflow: auto;
+}
 
 .article {
   font-size: 56px;
@@ -140,35 +150,33 @@ body{
 }
 
 .parallax9 {
-      background-image: url("pp.jpg");
-      /* Set a specific height */
-      height:200px;
-      /* Create the parallax scrolling effect */
-      background-attachment: fixed;
+      background:transparent url("hotlineThree.jpg");
+      height:150px;
+      background-attachment: scroll;
       background-position: center;
       background-repeat: no-repeat;
-      background-size: cover;
-      font-size: 40px;
-      color: gold;
-      width: 550px;
-      padding: 25px;
-      margin: 25px;
+      background-size: 100%;
+}
+
+.parallax9:hover {
+  background-image: url("hotThreeHover.jpg");
+  height:150px;
 }
 
 .parallax10 {
-      background-image: url("pp.jpg");
+      background:transparent url("hotlineFour.jpg");
       /* Set a specific height */
-      height:200px;
+      height:180px;
       /* Create the parallax scrolling effect */
-      background-attachment: fixed;
+      background-attachment: scroll;
       background-position: center;
       background-repeat: no-repeat;
-      background-size: cover;
-      font-size: 40px;
-      color: gold;
-      width: 550px;
-      padding: 25px;
-      margin: 25px;
+      background-size: 100%;
+}
+
+.parallax10:hover {
+  background-image: url("hotFourHover.jpg");
+  height:180px;
 }
 
 @media only screen and (max-device-width: 1366px) {
@@ -184,7 +192,7 @@ ul {
     width: 15%;
     background-color: #d3d3d3;
     position: fixed;
-    height: 35%;
+    height: 37%;
     overflow: auto;
 }
 
@@ -193,16 +201,19 @@ li a {
     color: #000;
     padding: 8px 16px;
     text-decoration: none;
+    text-align: center;
 }
 
 li a.active {
     background-color: #555;
     color: white;
+    text-align: center;
 }
 
 li a:hover:not(.active) {
     background-color: #555;
     color: white;
+    text-align: center;
 }
 
 h1{

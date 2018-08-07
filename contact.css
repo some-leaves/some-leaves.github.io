@@ -1,6 +1,6 @@
 body{
   font-family: 'PT Sans', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   margin-bottom: 90px;
 }
 
@@ -52,6 +52,13 @@ li a:hover:not(.active) {
 img {
   height: auto;
   width: 75%;
+}
+
+body  {
+    background-image: url("contactUS.jpg");
+    background-repeat:no-repeat;
+    background-size:100%;
+
 }
 
 /* li a.active {
