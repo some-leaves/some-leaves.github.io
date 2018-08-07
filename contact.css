@@ -55,9 +55,9 @@ img {
 }
 
 body  {
-    background-image: url("images.jpg");
+    background-image: url("contactUS.jpg");
     background-repeat:no-repeat;
-    background-size:100%;
+    height:100%;
 
 }
 
