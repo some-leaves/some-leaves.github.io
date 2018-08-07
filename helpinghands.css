@@ -197,7 +197,7 @@ ul {
     width: 15%;
     background-color: #d3d3d3;
     position: fixed;
-    height: 35%;
+    height: 37%;
     overflow: auto;
 }
 
@@ -206,16 +206,19 @@ li a {
     color: #000;
     padding: 8px 16px;
     text-decoration: none;
+    text-align: center;
 }
 
 li a.active {
     background-color: #555;
     color: white;
+    text-align: center;
 }
 
 li a:hover:not(.active) {
     background-color: #555;
     color: white;
+    text-align: center;
 }
 
 h1{
