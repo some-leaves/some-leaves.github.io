@@ -17,6 +17,7 @@ h1 {
   font-size: 50px;
   color: PowderBlue;
   background-color: black;
+font-family: 'PT Sans', sans-serif;
 }
 h1
 
@@ -24,6 +25,7 @@ p {
   margin-right: 70px;
   margin-bottom: 40px;
   font-size: 18px;
+  font-family: 'PT Sans', sans-serif;
 }
 
 ul {
@@ -35,6 +37,7 @@ ul {
     position: fixed;
     height: 35%;
     overflow: auto;
+    
 }
 
 li a {
