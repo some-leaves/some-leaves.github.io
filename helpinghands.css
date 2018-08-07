@@ -140,19 +140,17 @@ body{
 }
 
 .parallax9 {
-      background-image: url("pp.jpg");
-      /* Set a specific height */
-      height:200px;
-      /* Create the parallax scrolling effect */
-      background-attachment: fixed;
+      background:transparent url("hotlineThree.jpg");
+      height:150px;
+      background-attachment: scroll;
       background-position: center;
       background-repeat: no-repeat;
-      background-size: cover;
-      font-size: 40px;
-      color: gold;
-      width: 550px;
-      padding: 25px;
-      margin: 25px;
+      background-size: 100%;
+}
+
+.parallax9:hover {
+  background-image: url("hotThreeHover.jpg");
+  height:150px;
 }
 
 .parallax10 {
