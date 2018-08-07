@@ -1,8 +1,23 @@
 body{
   font-family: 'PT Sans', sans-serif;
-  font-size: 16px;
+
+background-image: url("background.jpg");
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+background-size: 100%;
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 25%;
+  background-color: #f1f1f1;
+  position: fixed;
+  height: 35%;
+  overflow: auto;
 
 .article {
   font-size: 56px;
