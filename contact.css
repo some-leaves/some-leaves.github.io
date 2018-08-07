@@ -54,6 +54,13 @@ img {
   width: 75%;
 }
 
+body  {
+    background-image: url("images.jpg");
+    background-repeat:no-repeat;
+    background-size:100%;
+
+}
+
 /* li a.active {
     background-color: #555;
     color: white;
