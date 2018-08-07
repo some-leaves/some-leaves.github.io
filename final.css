@@ -20,8 +20,6 @@ background-color: #f7f7f7;
 
 font-family: 'PT Sans', sans-serif;
 margin-bottom: 40px;
-font-size: 16px;
-
 }
 
 
@@ -51,7 +49,7 @@ ul {
     width: 15%;
     background-color: #d3d3d3;
     position: fixed;
-    height: 37%;
+    height: 35%;
     overflow: auto;
 }
 
