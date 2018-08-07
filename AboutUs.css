@@ -2,6 +2,8 @@ body,html{
 
   font-family: 'PT Sans', sans-serif;
   height:100%;
+  font-size: 16px;
+
 
 }
 
@@ -94,24 +96,22 @@ li a {
     color: #000;
     padding: 8px 16px;
     text-decoration: none;
+    text-align:center;
 }
 
 li a.active {
     background-color: #555;
     color: white;
-<<<<<<< HEAD
+
     text-align:center;
-=======
->>>>>>> 88a2f1f5859dfeca6e0bdb34ea8655aacc570991
 }
 
 li a:hover:not(.active) {
     background-color: #555;
     color: white;
-<<<<<<< HEAD
+
     text-align:center;
-=======
->>>>>>> 88a2f1f5859dfeca6e0bdb34ea8655aacc570991
+
 }
 
 .title {
