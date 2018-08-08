@@ -20,7 +20,10 @@ h1 {
   background-color: black;
 font-family: 'PT Sans', sans-serif;
 }
-h1
+
+h4{
+  font-size: 18px;
+}
 
 p {
   margin-right: 70px;
