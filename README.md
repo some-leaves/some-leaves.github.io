@@ -1,2 +1,2 @@
 # some-leaves.github.io
-This is the code for the appropriation Evaluation website .
+To reach the home page, go to https://some-leaves.github.io/index.html .
